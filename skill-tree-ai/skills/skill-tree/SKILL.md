@@ -117,3 +117,21 @@ Present the key findings:
 | The Illuminator | Questions and probes |
 | The Compass | Sets clear direction |
 | The Catalyst | Pure momentum |
+
+## The 11 Behaviors (from AI Fluency Framework)
+
+| Branch | Behavior | Population Avg |
+|--------|----------|---------------|
+| Planning | Clarifies goals upfront | 51% |
+| Planning | Discusses approach first | 10% |
+| Craft | Iterates on outputs | 86% |
+| Craft | Provides examples | 41% |
+| Craft | Specifies format | 30% |
+| Craft | Sets interaction style | 30% |
+| Craft | Expresses tone preferences | 23% |
+| Craft | Defines audience | 18% |
+| Judgment | Flags context gaps | 20% |
+| Judgment | Questions Claude's logic | 16% |
+| Rigor | Verifies facts | 9% |
+
+Baselines from [Anthropic's AI Fluency Index](https://www.anthropic.com/research/AI-fluency-index) (Feb 2026, N=9,830 conversations).
