@@ -10,7 +10,8 @@
     {
       "name": "skill-tree-ai",
       "description": "Your AI collaboration style — skill tree visualization with character archetype cards and growth recommendations",
-      "category": "productivity"
+      "category": "productivity",
+      "source": "./skill-tree-ai"
     }
   ]
 }
