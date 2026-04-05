@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "skill-tree-marketplace",
+  "description": "Skill Tree AI Fluency Plugin",
+  "owner": {
+    "name": "Robert Nowell",
+    "email": "robert@trykopi.ai"
+  },
+  "plugins": [
+    {
+      "name": "skill-tree-ai",
+      "description": "Your AI collaboration style — skill tree visualization with character archetype cards and growth recommendations",
+      "category": "productivity"
+    }
+  ]
+}
