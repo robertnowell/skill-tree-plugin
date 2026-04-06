@@ -10,7 +10,7 @@ if [ -f "$QUEST_FILE" ] && [ -s "$QUEST_FILE" ]; then
 {
   "hookSpecificOutput": {
     "hookEventName": "SessionStart",
-    "additionalContext": "Skill Tree growth quest active: ${QUEST} — If a natural opportunity arises during this session, gently encourage the user to practice this behavior. Do not force it or mention this unless relevant."
+    "additionalContext": "Growth quest from your last skill tree analysis: ${QUEST} — If a natural opportunity arises during this session, gently encourage the user to practice this behavior. Do not force it or mention this unless relevant."
   }
 }
 EOF

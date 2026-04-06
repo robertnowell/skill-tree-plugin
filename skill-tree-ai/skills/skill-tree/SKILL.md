@@ -118,20 +118,20 @@ Present the key findings:
 | The Compass | Sets clear direction |
 | The Catalyst | Pure momentum |
 
-## The 11 Behaviors (from AI Fluency Framework)
+## The 11 Behaviors (from AI Fluency Index)
 
-| Branch | Behavior | Population Avg |
-|--------|----------|---------------|
-| Planning | Clarifies goals upfront | 51% |
-| Planning | Discusses approach first | 10% |
-| Craft | Iterates on outputs | 86% |
-| Craft | Provides examples | 41% |
-| Craft | Specifies format | 30% |
-| Craft | Sets interaction style | 30% |
-| Craft | Expresses tone preferences | 23% |
-| Craft | Defines audience | 18% |
-| Judgment | Flags context gaps | 20% |
-| Judgment | Questions Claude's logic | 16% |
-| Rigor | Verifies facts | 9% |
+| Axis | Behavior | Population Avg |
+|------|----------|---------------|
+| Specification | Provides examples | 41% |
+| Specification | Specifies format | 30% |
+| Specification | Expresses tone preferences | 23% |
+| Specification | Defines audience | 18% |
+| Evaluation | Flags context gaps | 20% |
+| Evaluation | Questions Claude's logic | 16% |
+| Evaluation | Verifies facts | 9% |
+| Setup | Clarifies goals upfront | 51% |
+| Setup | Discusses approach first | 10% |
+| Setup | Sets interaction style | 30% |
+| (Gateway) | Iterates on outputs | 86% |
 
-Baselines from [Anthropic's AI Fluency Index](https://www.anthropic.com/research/AI-fluency-index) (Feb 2026, N=9,830 conversations).
+Baselines from [Anthropic's AI Fluency Index](https://www.anthropic.com/research/AI-fluency-index) (Feb 2026, N=9,830).

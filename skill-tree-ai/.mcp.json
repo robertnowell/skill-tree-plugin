@@ -1,6 +1,1 @@
-{
-  "skill-tree": {
-    "type": "http",
-    "url": "https://skill-tree-ai.fly.dev/mcp"
-  }
-}
+{"mcpServers":{"skill-tree":{"type":"http","url":"https://skill-tree-ai.fly.dev/mcp"}}}
